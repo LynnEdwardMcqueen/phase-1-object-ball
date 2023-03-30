@@ -341,7 +341,7 @@ let doesLongNameStealATon = () => {
     }
 }
 
-// 
+/*  
 let testPoints = numPointsScored("Brendan Haywood");
 testPoints = numPointsScored("Mason Plumlee");
 testPoints = numPointsScored("Alfred E. Newman");
@@ -369,3 +369,4 @@ let victors = winningTeam();
 let spellChamp = playerWithLongestName();
 
 let highlyUnlikely = doesLongNameStealATon();
+*/
